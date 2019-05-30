@@ -1,0 +1,15 @@
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\bin\Debug\ProcessApp.exe.config
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\bin\Debug\ProcessApp.exe
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\bin\Debug\ProcessApp.pdb
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.csprojAssemblyReference.cache
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.MainForm.resources
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.Properties.Resources.resources
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.csproj.GenerateResource.cache
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.exe
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.pdb
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\bin\Debug\ProcessApp.exe.manifest
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\bin\Debug\ProcessApp.application
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.TrustInfo.xml
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.exe.manifest
+C:\Users\nikse\source\repos\ProcessApp\ProcessApp\obj\Debug\ProcessApp.application
